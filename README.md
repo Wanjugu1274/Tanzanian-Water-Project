@@ -1,4 +1,3 @@
-# Pump it Up: Data Mining the Water Table
 ## My analysis for the Driven Data competition
 
 By Sons of Analysts | Moringa School 2022
